@@ -1,7 +1,7 @@
 ﻿#Requires AutoHotkey v2.0
 
 ;Historico de Teclas usadas
-F1::KeyHistory()
+^+F1::KeyHistory()
 
 ;Teclas de atalho
 NumpadDot::^z
